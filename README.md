@@ -16,7 +16,7 @@ Navigate to the root directory of the project in 'command prompt' and run the fo
 npm i
 ```
 
-wait for packages to finish getting installed.
+wait for packages to finish getting installed. Then run the command:
 
 ```sh
 npm run android
