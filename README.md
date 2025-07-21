@@ -1,3 +1,5 @@
+Note: Screenshots and demo-video of the project are included in the repository.
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # How To Run This Project
@@ -18,5 +20,3 @@ npm run android
 yarn android
 ```
 The app will get installed in the 'Android Studio' Emulator and start running.
-
-Screenshots and demo-video of the project are included.
