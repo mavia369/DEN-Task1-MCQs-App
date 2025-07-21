@@ -1,4 +1,4 @@
-Note: Screenshots and demo-video of the project are included in the repository.
+#Note: Screenshots and demo-video of the project are included in the repository.
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
