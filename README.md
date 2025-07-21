@@ -18,3 +18,5 @@ npm run android
 yarn android
 ```
 The app will get installed in the 'Android Studio' Emulator and start running.
+
+Screenshots and demo-video of the project are included.
