@@ -1,8 +1,6 @@
 # Note: 
 ### Screenshots and demo-video of the project are included in the folder 'Screenshots and demo-video' of the repository.
 
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-
 # About This Project
 This project is a simple android application which allows the user to: 
 1) Take a quiz which consists of 5 MCQs
@@ -14,6 +12,7 @@ This project is a simple android application which allows the user to:
 7) User can press the 'Go to Home' button on the 'ResultScreen' to go back to the 'HomeScreen'.
 
 # How To Run This Project
+This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 ## Step 1: Setup the enviromnet
 Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
