@@ -3,7 +3,7 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # About This Project
-This is a simple android application which allows the user to: 
+This project is a simple android application which allows the user to: 
 1) Take a quiz which consists of 5 MCQs
 2) The user lands on 'HomeScreen' where they can press 'Start Quiz' button to start the quiz.
 3) The user then lands on the 'QuizScreen' where a question is asked with 4 possible options, the user has to choose one and then click on the 'Next' button to get to the next MCQ.
