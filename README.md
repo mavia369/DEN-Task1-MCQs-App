@@ -1,8 +1,6 @@
 # Note: 
 ### Screenshots and demo-video of the project are included in the folder 'Screenshots and demo-video' of the repository.
 
-
-
 # About This Project
 This project is a simple android application which allows the user to: 
 1) Take a quiz which consists of 5 MCQs
@@ -13,14 +11,11 @@ This project is a simple android application which allows the user to:
 6) After the 5 MCQs are finished, the user lands on the 'ResultScreen' where the app shows how many of the answers were correct.
 7) User can press the 'Go to Home' button on the 'ResultScreen' to go back to the 'HomeScreen'.
 
-
-
 # How To Run This Project
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 ## Step 1: Setup the enviromnet
 Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
-
 
 ## Step 2: Build and run your app
 Make sure that the 'Android Studio' Emulator is running.
@@ -36,5 +31,3 @@ wait for packages to finish getting installed. Then run the command:
 npm run android
 ```
 The app will get installed in the 'Android Studio' Emulator and start running.
-
-
