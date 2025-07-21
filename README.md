@@ -7,7 +7,7 @@ Make sure you have completed the [Set Up Your Environment](https://reactnative.d
 
 
 ## Step 2: Build and run your app
-Make sure that the 'Android Studio' Emulator is open.
+Make sure that the 'Android Studio' Emulator is running.
 Navigate to the root directory of the project in 'command prompt' and run the following command:
 
 ```sh
