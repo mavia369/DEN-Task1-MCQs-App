@@ -1,6 +1,8 @@
 # Note: 
 ### Screenshots and demo-video of the project are included in the folder 'Screenshots and demo-video' of the repository.
 
+
+
 # About This Project
 This project is a simple android application which allows the user to: 
 1) Take a quiz which consists of 5 MCQs
@@ -10,6 +12,8 @@ This project is a simple android application which allows the user to:
 5) The quiz automatically moves on to next MCQ if the user fails to answer it within 10 seconds
 6) After the 5 MCQs are finished, the user lands on the 'ResultScreen' where the app shows how many of the answers were correct.
 7) User can press the 'Go to Home' button on the 'ResultScreen' to go back to the 'HomeScreen'.
+
+
 
 # How To Run This Project
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
